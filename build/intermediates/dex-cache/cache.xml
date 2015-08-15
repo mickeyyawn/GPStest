@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/mickey/Sites/GPStest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0124ce31248c0e8acfa2b28283c6d1a4d76e73d2">
+        <dex dex="/Users/mickey/Sites/GPStest/app/build/intermediates/pre-dexed/debug/classes-718fc25491b2d1a2dd34bad6dae93eb1ed722ad8.jar" />
+    </item>
+    <item
+        jar="/Users/mickey/Sites/GPStest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="130b32ed466fa0f63efd4c7d6250ccd2ed506790">
+        <dex dex="/Users/mickey/Sites/GPStest/app/build/intermediates/pre-dexed/debug/classes-a5bfd87ac256fabf4f4e7a32c0539df75af43344.jar" />
+    </item>
+    <item
+        jar="/Users/mickey/Sites/GPStest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c756d14e99d39471e99013a1e8fd2f3813ed42bf">
+        <dex dex="/Users/mickey/Sites/GPStest/app/build/intermediates/pre-dexed/debug/classes-6d06e4f4cd30b913df33b375d95670257dc071e9.jar" />
+    </item>
+    <item
+        jar="/Users/mickey/Sites/GPStest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2e24e5f1b11170163028277de63f709e42525db4">
+        <dex dex="/Users/mickey/Sites/GPStest/app/build/intermediates/pre-dexed/debug/classes-2200be42fa1d44262ff938c251e136b6f9463af4.jar" />
+    </item>
+    <item
+        jar="/Users/mickey/Sites/GPStest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="cb6fab7a71fa9ec1f483d44c5fca65ab469d8aca">
+        <dex dex="/Users/mickey/Sites/GPStest/app/build/intermediates/pre-dexed/debug/classes-f91f51b2a573f350bd925f257c0424d3addeeadf.jar" />
+    </item>
+    <item
+        jar="/Users/mickey/Sites/GPStest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="77a9dcb5f8b1dba36aacaa9c150eb0942dbea158">
+        <dex dex="/Users/mickey/Sites/GPStest/app/build/intermediates/pre-dexed/debug/classes-5ead6187c5d7271c29b57bbc4230ea42152c50bc.jar" />
+    </item>
+    <item
+        jar="/Users/mickey/Sites/GPStest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="adebe28e0c0c05d34a3bfd76f3275bf4d8ff87b6">
+        <dex dex="/Users/mickey/Sites/GPStest/app/build/intermediates/pre-dexed/debug/classes-f60fbeb3450cb607626b837e27c1bdef437534d5.jar" />
+    </item>
+    <item
+        jar="/Users/mickey/Sites/GPStest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c2ac04c5b232f6f0658ee4f1c13be09cd76406e2">
+        <dex dex="/Users/mickey/Sites/GPStest/app/build/intermediates/pre-dexed/debug/classes-7c71bcff02893a97be468f699d6351ab34b29921.jar" />
+    </item>
+    <item
+        jar="/Users/mickey/Sites/GPStest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="166e458ee3b5fb5fcff0f936df3f3a788e6c54f3">
+        <dex dex="/Users/mickey/Sites/GPStest/app/build/intermediates/pre-dexed/debug/classes-4d3119455a0de456f8dbdf7917f09f181c3afd9c.jar" />
+    </item>
+    <item
+        jar="/Users/mickey/Sites/GPStest/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="/Users/mickey/Sites/GPStest/app/build/intermediates/pre-dexed/debug/classes-04c4b3eadbfccd09106b4bc050b5332f6e4fd58d.jar" />
+    </item>
+    <item
+        jar="/Users/mickey/Sites/GPStest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d11330ea68c0d964d30d5caed1f27e6b1488b189">
+        <dex dex="/Users/mickey/Sites/GPStest/app/build/intermediates/pre-dexed/debug/classes-b9fa77ee53f0740a1bb1e865ba80262953636c24.jar" />
+    </item>
+    <item
+        jar="/Users/mickey/Sites/GPStest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c5cafb324568d954780abb858c25db7ce675ab3c">
+        <dex dex="/Users/mickey/Sites/GPStest/app/build/intermediates/pre-dexed/debug/classes-6af0ac895a4544f9dabbce7799c7e1f2ff3b5810.jar" />
+    </item>
+    <item
+        jar="/Users/mickey/Sites/GPStest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="/Users/mickey/Sites/GPStest/app/build/intermediates/pre-dexed/debug/classes-1de605f345dacce314e0c617fb1af4e772deb3a1.jar" />
+    </item>
+    <item
+        jar="/Users/mickey/Sites/GPStest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b99f0b78bbcb76b915bc6529a83b65d4d46990dd">
+        <dex dex="/Users/mickey/Sites/GPStest/app/build/intermediates/pre-dexed/debug/classes-5b0276e91c30effd8d64b09e7c1f5f61b03a4f10.jar" />
+    </item>
+    <item
+        jar="/Users/mickey/Sites/GPStest/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/mickey/Sites/GPStest/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-af1aa901f31de35b700cdaa68ea63d3c565ad573.jar" />
+    </item>
+    <item
+        jar="/Users/mickey/Sites/GPStest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2491ae1b2a848af1f4f0c795f3117c1bd6a1989f">
+        <dex dex="/Users/mickey/Sites/GPStest/app/build/intermediates/pre-dexed/debug/classes-1333fbc4ad21305a01070494ebd5f70377bf1e44.jar" />
+    </item>
+    <item
+        jar="/Users/mickey/Sites/GPStest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4a135d56554069e5d0ff80e3220e887e57146ee5">
+        <dex dex="/Users/mickey/Sites/GPStest/app/build/intermediates/pre-dexed/debug/classes-0f4aea2df0f8c6f9dab0b66362236d7ce64ce9d7.jar" />
+    </item>
+    <item
+        jar="/Users/mickey/Sites/GPStest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ff30fa49c07a08c3035d7218a3efebf5680d522">
+        <dex dex="/Users/mickey/Sites/GPStest/app/build/intermediates/pre-dexed/debug/classes-48220239884f81fbaff8e4c8095633e7bd04c2ff.jar" />
+    </item>
+    <item
+        jar="/Users/mickey/Sites/GPStest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/mickey/Sites/GPStest/app/build/intermediates/pre-dexed/debug/classes-5d068b08e67569dcf61110fab1c5257b01e18555.jar" />
+    </item>
+    <item
+        jar="/Users/mickey/Sites/GPStest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="42a1ee578b62fd1bd28b3307a679dc9ba0791587">
+        <dex dex="/Users/mickey/Sites/GPStest/app/build/intermediates/pre-dexed/debug/classes-35f266f1b53cc32a022d68dc71d3731e45ecfbc6.jar" />
+    </item>
+    <item
+        jar="/Applications/android sdk/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/Users/mickey/Sites/GPStest/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-3f06f64bd9d153650426d020cc722b39db3749c6.jar" />
+    </item>
+    <item
+        jar="/Users/mickey/Sites/GPStest/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/Users/mickey/Sites/GPStest/app/build/intermediates/pre-dexed/debug/classes-426cfa07cd6f1ce7242b68e5e4777a843da1b407.jar" />
+    </item>
+    <item
+        jar="/Users/mickey/Sites/GPStest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="edea92852b40eee716e910af8dad9eeaa58fb0e1">
+        <dex dex="/Users/mickey/Sites/GPStest/app/build/intermediates/pre-dexed/debug/classes-852732d3e0510e8fbf8afb07c4a781768ac4eab6.jar" />
+    </item>
+    <item
+        jar="/Users/mickey/Sites/GPStest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6e85edfc9b5346d216e50ccef1f8e825504144a3">
+        <dex dex="/Users/mickey/Sites/GPStest/app/build/intermediates/pre-dexed/debug/classes-012a6f3542b37c936ce207b08b3f244e3e660074.jar" />
+    </item>
+    <item
+        jar="/Users/mickey/Sites/GPStest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="98137c4d12c50923f5809852b1ef4d1c4e162081">
+        <dex dex="/Users/mickey/Sites/GPStest/app/build/intermediates/pre-dexed/debug/classes-3f2b030158366ea82c76c858463d8b6cba9abd0c.jar" />
+    </item>
+    <item
+        jar="/Users/mickey/Sites/GPStest/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="/Users/mickey/Sites/GPStest/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-6caf663ae5ce485f8928859e6c9873bb10495873.jar" />
+    </item>
+    <item
+        jar="/Users/mickey/Sites/GPStest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e23ea11124bb700eeddd4ab7aa848c615f493850">
+        <dex dex="/Users/mickey/Sites/GPStest/app/build/intermediates/pre-dexed/debug/classes-1b757bfd664ec5635ffc1462ef95833d2b543b00.jar" />
+    </item>
+
+</items>
